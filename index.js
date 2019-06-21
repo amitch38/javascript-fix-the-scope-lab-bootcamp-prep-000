@@ -30,5 +30,3 @@ var funkyFunction = function() {
 var theFunk = funkyFunction();
 
 var tooFunky = theFunk;
-
-tooFunky;
